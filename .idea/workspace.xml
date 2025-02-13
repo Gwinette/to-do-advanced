@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccdc0ce4-4f07-4267-8f02-418f8f799f01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to-do-advanced.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ccdc0ce4-4f07-4267-8f02-418f8f799f01" name="Changes" comment="1 page 1 (to do list) options: add, check, edit, delete." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +67,16 @@
       <workItem from="1739352743939" duration="8250000" />
       <workItem from="1739366791711" duration="644000" />
       <workItem from="1739452408495" duration="1736000" />
-      <workItem from="1739465931666" duration="5294000" />
+      <workItem from="1739465931666" duration="5595000" />
     </task>
+    <task id="LOCAL-00001" summary="1 page 1 (to do list) options: add, check, edit, delete.">
+      <created>1739475137162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739475137162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 page 1 (to do list) options: add, check, edit, delete." />
+    <option name="LAST_COMMIT_MESSAGE" value="1 page 1 (to do list) options: add, check, edit, delete." />
   </component>
 </project>
