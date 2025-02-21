@@ -113,6 +113,12 @@ main {
     flex: 1 1 0%;
 }
 
+#tasks .task .span{
+    color: var(--white-pink);
+    cursor: pointer;
+    font-size: 1rem;
+}
+
 #tasks .task .content .text {
     color: var(--white-pink);
     font-size: 1.125rem;
@@ -150,7 +156,7 @@ main {
     background-image: linear-gradient(to right, var(--pink), var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    display: none;
+    opacity: 0;
 }
 
 .task .actions .delete {

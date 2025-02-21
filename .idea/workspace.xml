@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccdc0ce4-4f07-4267-8f02-418f8f799f01" name="Changes" comment="1 page 1 (to do list) options: add, check, edit, delete." />
+    <list default="true" id="ccdc0ce4-4f07-4267-8f02-418f8f799f01" name="Changes" comment="page 1 (to do list) options: add, check, edit, delete.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +71,11 @@
       <workItem from="1739352743939" duration="8250000" />
       <workItem from="1739366791711" duration="644000" />
       <workItem from="1739452408495" duration="1736000" />
-      <workItem from="1739465931666" duration="5595000" />
+      <workItem from="1739465931666" duration="5663000" />
+      <workItem from="1739975949994" duration="1393000" />
+      <workItem from="1740078921802" duration="1094000" />
+      <workItem from="1740131069345" duration="849000" />
+      <workItem from="1740131935401" duration="1927000" />
     </task>
     <task id="LOCAL-00001" summary="1 page 1 (to do list) options: add, check, edit, delete.">
       <created>1739475137162</created>
@@ -76,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739475137162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="page 1 (to do list) options: add, check, edit, delete.">
+      <created>1739475174790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739475174790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 page 1 (to do list) options: add, check, edit, delete." />
-    <option name="LAST_COMMIT_MESSAGE" value="1 page 1 (to do list) options: add, check, edit, delete." />
+    <MESSAGE value="page 1 (to do list) options: add, check, edit, delete." />
+    <option name="LAST_COMMIT_MESSAGE" value="page 1 (to do list) options: add, check, edit, delete." />
   </component>
 </project>
